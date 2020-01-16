@@ -22,7 +22,7 @@ Il dispositivo hardware assemblato risulta come in foto:
 ![foto-robot-assemblato](Assemblato.jpg)
  
 La documentazione sulla progettazione del dispositivo hardware è disponibile nel documento:
-[documento-hardware](https://drive.google.com/a/unibs.it/file/d/1IAKZe5GPROLx0t_q6jcOpM-mL6QxMnr6/view?usp=drivesdk)
+[documento-hardware](https://drive.google.com/file/d/1D7-pHRRr-NHN0P8EHxNenzi6C1bxaE9S/view?usp=sharing)
  
 Si riportano per comodità i collegamenti pin-componenti:
  
